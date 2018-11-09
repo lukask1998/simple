@@ -1,0 +1,30 @@
+
+Employees data from data.txt: 
+----------------------------------------------|
+|      Name      |      Job      |   Salary   |
+----------------------------------------------|
+| Name1          | Job1          | 1000       |
+| Name2          | Job2          | 2100       |
+| Name3          | Job3          | 1200       |
+| Name4          | Job4          | 800        |
+| Name5          | Job5          | 600        |
+| Name6          | Job6          | 2800       |
+----------------------------------------------|
+
+Sorted list by salary: 
+----------------------------------------------|
+|      Name      |      Job      |   Salary   |
+----------------------------------------------|
+| Name6          | Job6          | 2800       |
+| Name2          | Job2          | 2100       |
+| Name3          | Job3          | 1200       |
+| Name1          | Job1          | 1000       |
+| Name4          | Job4          | 800        |
+| Name5          | Job5          | 600        |
+----------------------------------------------|
+
+People earn most working in "Job6" job.
+
+People earn least working in "Job5" job.
+
+Total salary from all jobs: 8500€
